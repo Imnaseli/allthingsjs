@@ -8,7 +8,7 @@ button.addEventListener('click' , function (){
     color.textContent = random 
 })
 
-//NOTE: get a random hex color, hex colors consist o g digits
+//NOTE: get a random hex color, hex colors consist o 6 digits
 //WARN: chamge name 
 
 const getrandomnumber = () => {
