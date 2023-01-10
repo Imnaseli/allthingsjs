@@ -1,0 +1,16 @@
+
+.ad{
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background: #C47D95;
+    display: grid;
+    place-items: center;
+    visibility: hidden;
+}
+
+.show{
+    visibility: visible;
+}
