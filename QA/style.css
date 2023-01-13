@@ -1,0 +1,16 @@
+.answer{
+    display: none;
+}
+
+.answer.show{
+    display: block;
+}
+.minus{
+    display: none;
+}
+.show.minus {
+    display: inline;
+}
+.show.plus{
+    display: none;
+}

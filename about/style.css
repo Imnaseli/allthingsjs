@@ -1,0 +1,10 @@
+.content{
+    display: none;
+}
+
+.content.active{
+    display: grid;
+}
+html{
+    background-color: brown;
+}

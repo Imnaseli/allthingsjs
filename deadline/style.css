@@ -1,0 +1,19 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.deadline{
+    width: 60vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.deadline div{
+    background-color: brown;
+    color: black;
+    padding: 15px;
+    font-size: larger;
+    font-weight: 600;
+}
